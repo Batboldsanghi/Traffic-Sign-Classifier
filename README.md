@@ -57,10 +57,6 @@ normalization.  The following normalization gave me the best result. But, their 
 Also, the gray scale gave better accuracy and learnt faster. 
 
 #### 2. I modified the lenet model and increased the number of conv layers. The idea was mentioned in papers and blogs (http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf). 
-Also, i got some ideas and codes from blogs and github accounts.
-https://navoshta.com/traffic-signs-classification/
-https://github.com/navoshta/traffic-signs/blob/master/Traffic_Signs_Recognition.ipynb
-https://github.com/tdanyluk/CarND-Traffic-Sign-Classifier-Project
 
 I did study tuning parameters below.
 
